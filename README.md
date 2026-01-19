@@ -27,7 +27,7 @@ Modern iOS e-commerce application built with SwiftUI, demonstrating clean archit
 **⭐ Technologies:** SwiftUI, Swift, iOS Development, Clean Architecture, E-commerce Patterns
 
 ### **War Card Game** 
-[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/Mohamed0Amr/War-Card-Game) [![Flutter](https://img.shields.io/badge/Flutter-Game-02569B?logo=flutter)](https://github.com/Mohamed0Amr/War-Card-Game)
+[![GitHub](https://img.shields.io/badge/GitHub-Code-181717?logo=github)](https://github.com/Mohamed0Amr/StoreApp) [![Swift](https://img.shields.io/badge/SwiftUI-iOS-FA7343?logo=swift)](https://github.com/Mohamed0Amr/WarCardGame)
 
 Interactive card game implementation with smooth animations and engaging gameplay mechanics.
 
