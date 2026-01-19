@@ -1,5 +1,5 @@
 🏄‍♂️ **Mohamed Amr**
-**Mobile Banking Specialist (Flutter/Temenos Quantum/iOS Developer)**
+**Software Engineer/Mobile Application Developer/Flutter/iOS Developer**
 
 I'm a software engineer specializing in mobile development and digital banking solutions. I build secure, scalable applications from the ground up, focusing on FinTech innovation and robust mobile experiences. From Flutter cross-platform apps to native iOS development and Temenos Quantum banking platforms, I turn complex banking requirements into seamless digital solutions.
 
