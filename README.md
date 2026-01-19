@@ -41,7 +41,6 @@ I'm a software engineer specializing in mobile development and digital banking s
 <div align="center">
   
 ![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed0Amr&show_icons=true&theme=default&hide_border=true&bg_color=00000000&hide_title=true)  <!-- Added hide_title -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed0Amr&theme=default&hide_border=true&background=00000000)  <!-- Added streak -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed0Amr&layout=compact&theme=default&hide_border=true&bg_color=00000000)
 
 </div>
