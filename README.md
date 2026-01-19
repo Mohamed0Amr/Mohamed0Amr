@@ -75,5 +75,3 @@ I'm a software engineer specializing in mobile development and digital banking s
 </div>
 
 ---
-
-> *"Building secure digital banking experiences, one app at a time."*
