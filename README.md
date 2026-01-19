@@ -12,14 +12,13 @@ I'm a software engineer specializing in mobile development and digital banking s
 ![GitHub Followers](https://img.shields.io/github/followers/Mohamed0Amr?label=Followers&style=for-the-badge&color=blue)
 ![Total Stars](https://img.shields.io/github/stars/Mohamed0Amr?label=Total%20Stars&style=for-the-badge&color=yellow)
 ![Repositories](https://img.shields.io/badge/Repositories-10+-blue?style=for-the-badge)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohamed0Amr&label=Profile%20Views&color=0e75b6&style=for-the-badge)  <!-- Added -->
 
---
 
 ## 🧰 Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" title="Flutter" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" title="Swift" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" title="Dart" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" title="PostgreSQL" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" title="Xcode" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="Android Studio" width="40" height="40" /> <img src="https://img.icons8.com/color/48/000000/api.png" title="REST APIs" width="40" height="40" /> <img src="https://img.icons8.com/color/48/000000/database.png" title="Database" width="40" height="40" />
 
---
 
 ## 🏆 Featured Projects
 
@@ -40,9 +39,9 @@ I'm a software engineer specializing in mobile development and digital banking s
 ## 📈 GitHub Stats
 
 <div align="center">
-
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed0Amr&show_icons=true&theme=default&hide_border=true&bg_color=00000000)
-
+  
+![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed0Amr&show_icons=true&theme=default&hide_border=true&bg_color=00000000&hide_title=true)  <!-- Added hide_title -->
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mohamed0Amr&theme=default&hide_border=true&background=00000000)  <!-- Added streak -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed0Amr&layout=compact&theme=default&hide_border=true&bg_color=00000000)
 
 </div>
