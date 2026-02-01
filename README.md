@@ -36,18 +36,6 @@ I'm a software engineer specializing in mobile development and digital banking s
 > Modern iOS e-commerce application
 > ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift) ![iOS](https://img.shields.io/badge/iOS_Native-Expert-blue)
 
----
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-![Mohamed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohamed0Amr&show_icons=true&theme=default&hide_border=true&bg_color=00000000&hide_title=true)  <!-- Added hide_title -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed0Amr&layout=compact&theme=default&hide_border=true&bg_color=00000000)
-
-</div>
-
----
 
 ## 🌍 Multi-Lingual Developer
 
