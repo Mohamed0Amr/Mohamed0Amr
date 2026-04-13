@@ -3,7 +3,7 @@
 
 **Software Engineer | Mobile Application Developer | Flutter | iOS Developer**
 
-I'm a software engineer specializing in mobile development and digital banking solutions. I build secure, scalable applications from the ground up, focusing on FinTech innovation and robust mobile experiences. From Flutter cross-platform apps to native iOS development and Temenos Quantum banking platforms, I turn complex banking requirements into seamless digital solutions.
+I'm a passionate software engineer who loves building things from scratch. I craft cross-platform mobile apps with Flutter, native iOS experiences with SwiftUI, and full-stack solutions using Node.js & MySQL — always focusing on clean architecture, smooth UX, and real-world impact.
 
 📱 **App Store Success** | 🔒 **Banking Security** | ⚡ **Cross-Platform Expertise**
 
