@@ -24,16 +24,40 @@ I'm a software engineer specializing in mobile development and digital banking s
 
 ## 🏆 Featured Projects
 
-### **Juju Party** 
+### **Juju Party App** 
 > Social party app with real-time synchronized music playback across devices
 > ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
 
 
-### **Quraan Kareem** 
+### **Quraan Kareem App** 
 > Audio streaming Quran application with multi-language support
 > ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
 
-### **Banking Payment Modules** 
+### **Banking App** 
+> 💳 Full-stack banking dashboard with authentication, account management & transactions
+> ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+
+### **Murabha App** 
+> 🚗 Car marketplace app with seamless bank integration for financing & purchases
+> ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+
+### **NeuroClick App** 
+> 🧠 Smart Flutter app powered by Machine Learning & Firebase for intelligent interactions
+> ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+
+### **Joke App** 
+>  iOS app exploring modern Swift concurrency with async/await for fetching jokes
+> ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift) ![iOS](https://img.shields.io/badge/iOS_Native-Expert-blue) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+
+### **Map App** 
+>  Native iOS map app to discover nearby beaches using Apple MapKit
+> ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift) ![iOS](https://img.shields.io/badge/iOS_Native-Expert-blue) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+
+### **War-Card App** 
+>  🃏 Fun iOS card battle game built with SwiftUI — draw cards and fight to win!
+> ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift) ![iOS](https://img.shields.io/badge/iOS_Native-Expert-blue) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+
+### **Banking Payment Modules Feature** 
 > Bill payment & P2P transfer solutions for digital banking
 > ![Temenos](https://img.shields.io/badge/Temenos_Quantum-0A66C2) ![Security](https://img.shields.io/badge/Banking_Security-Critical-red)
 
