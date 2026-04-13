@@ -35,7 +35,7 @@ I'm a software engineer specializing in mobile development and digital banking s
 
 ### **Banking App** 
 > 💳 Full-stack banking dashboard with authentication, account management & transactions
-> ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
+> ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![NodeJS]([https://img.shields.io/badge/Dart-0175C2?logo=dart](https://img.shields.io/badge/Node.js-339933?logo=node.js)) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql)
 
 ### **Murabha App** 
 > 🚗 Car marketplace app with seamless bank integration for financing & purchases
