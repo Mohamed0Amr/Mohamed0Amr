@@ -24,6 +24,11 @@ I'm a software engineer specializing in mobile development and digital banking s
 
 ## 🏆 Featured Projects
 
+### **Juju Party** 
+> Social party app with real-time synchronized music playback across devices
+> ![Temenos](https://img.shields.io/badge/Temenos_Quantum-0A66C2) ![Security](https://img.shields.io/badge/Banking_Security-Critical-red)
+
+
 ### **Quraan Kareem** 
 > Audio streaming Quran application with multi-language support
 > ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
