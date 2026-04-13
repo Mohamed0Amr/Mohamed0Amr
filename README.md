@@ -31,7 +31,7 @@ I'm a software engineer specializing in mobile development and digital banking s
 
 ### **Quraan Kareem** 
 > Audio streaming Quran application with multi-language support
-> ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart)
+> ![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter) ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
 
 ### **Banking Payment Modules** 
 > Bill payment & P2P transfer solutions for digital banking
@@ -39,7 +39,7 @@ I'm a software engineer specializing in mobile development and digital banking s
 
 ### **SwiftUI Store App** 
 > Modern iOS e-commerce application
-> ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift) ![iOS](https://img.shields.io/badge/iOS_Native-Expert-blue)
+> ![SwiftUI](https://img.shields.io/badge/SwiftUI-FA7343?logo=swift) ![iOS](https://img.shields.io/badge/iOS_Native-Expert-blue) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase)
 
 
 ## 🌍 Multi-Lingual Developer
